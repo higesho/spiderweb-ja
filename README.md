@@ -16,6 +16,7 @@ Spiderweb Software とは関係ありません。
 | アヴァーナム | Avernum 2: Crystal Souls | 公開中（ベータ版） | https://higesho.github.io/avernum2-cs-jp/ |
 | アヴァドン | Avadon: The Black Fortress | 公開中（ベータ版） | https://higesho.github.io/avadon-tbf-jp/ |
 | アヴァドン | Avadon 2: The Corruption | 公開中（ベータ版） | https://higesho.github.io/avadon2-jp/ |
+| アヴァドン | Avadon 3: The Warborn | 公開中（ベータ版） | https://higesho.github.io/avadon3-tw-jp/ |
 
 どのパッチも、ゲームフォルダにファイルを置くだけで使え、ゲームのファイルは書き換えません。配布物には原作のプログラムやデータは入っていません。
 
