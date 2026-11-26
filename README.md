@@ -1,6 +1,6 @@
 # スパイダーウェブ・ソフトウェア作品 日本語化プロジェクト
 
-Spiderweb Software のアヴァーナム（Avernum）シリーズとアヴァドン（Avadon）シリーズを日本語で遊べるようにする、非公式のファンメイド日本語化プロジェクトです。
+Spiderweb Software のアヴァーナム（Avernum）シリーズ、アヴァドン（Avadon）シリーズ、ジーンフォージ（Geneforge）を日本語で遊べるようにする、非公式のファンメイド日本語化プロジェクトです。
 Spiderweb Software とは関係ありません。
 
 - サイト（作品一覧）: https://higesho.github.io/spiderweb-ja/
@@ -14,9 +14,14 @@ Spiderweb Software とは関係ありません。
 |---|---|---|---|
 | アヴァーナム | Avernum: Escape From the Pit | 公開中（ベータ版） | https://higesho.github.io/avernum-efp-jp/ |
 | アヴァーナム | Avernum 2: Crystal Souls | 公開中（ベータ版） | https://higesho.github.io/avernum2-cs-jp/ |
+| アヴァーナム | Avernum 3: Ruined World | 公開中（ベータ版） | https://higesho.github.io/avernum3-rw-jp/ |
+| アヴァーナム | Avernum 4 | 公開中（ベータ版） | https://higesho.github.io/avernum4-jp/ |
+| アヴァーナム | Avernum 5 | 公開中（ベータ版） | https://higesho.github.io/avernum5-jp/ |
+| アヴァーナム | Avernum 6 | 公開中（ベータ版） | https://higesho.github.io/avernum6-jp/ |
 | アヴァドン | Avadon: The Black Fortress | 公開中（ベータ版） | https://higesho.github.io/avadon-tbf-jp/ |
 | アヴァドン | Avadon 2: The Corruption | 公開中（ベータ版） | https://higesho.github.io/avadon2-jp/ |
 | アヴァドン | Avadon 3: The Warborn | 公開中（ベータ版） | https://higesho.github.io/avadon3-tw-jp/ |
+| ジーンフォージ | Geneforge 1 - Mutagen | 公開中（ベータ版） | https://higesho.github.io/geneforge1-jp/ |
 
 どのパッチも、ゲームフォルダにファイルを置くだけで使え、ゲームのファイルは書き換えません。配布物には原作のプログラムやデータは入っていません。
 
@@ -26,4 +31,4 @@ Spiderweb Software とは関係ありません。
 
 ## 権利
 
-Avernum と Avadon は Spiderweb Software の商標です。ゲームの画像・文章の権利は Spiderweb Software にあります。
+Avernum、Avadon、Geneforge は Spiderweb Software の商標です。ゲームの画像・文章の権利は Spiderweb Software にあります。
